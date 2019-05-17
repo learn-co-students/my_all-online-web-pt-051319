@@ -1,5 +1,5 @@
 require 'pry'
-
+`binding.pry`
 def My_all 
  ([1,2,3])
  i = 0 
